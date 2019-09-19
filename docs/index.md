@@ -7,4 +7,4 @@ This document describes the instructions for your first steps in
 5. Project Lists
 6. Project Summary
 
-christylersnapithd.github.io/test/final
+https://christylersnapithd.github.io/test/final
