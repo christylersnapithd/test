@@ -34,6 +34,7 @@ Description | Page
 ## Personal Preferences
 
 Vtiger provides a number of preferences that can be set to your liking.
+
 Description | Page
 -----|---------
 *Step 1* - Click on the person icon in the top right of the page. In the profile popup that displays click *My Preferences* |![Image 4](Training-04.png)
