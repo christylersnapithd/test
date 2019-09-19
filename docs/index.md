@@ -15,26 +15,23 @@ Vtiger is accessible using the URL [https://crm.snapit.group](https://crm.snapit
 
 Description | Page
 -----|---------
-*Step 1* - Navigate to [https://crm.snapit.group](https://crm.snapit.group). Enter your email into the username field and the password you have been provided. |![Image 1](Training-01.png)
-
-*Step 1* - If sign in is successful you will be presented with a dialog with language, timezone and date preferences. Click *Get Started*. These can be changed later through the personal preferences dialog. |![Image 2](Training-02.png)
-
-![Image 3](Training-03.png)
+*Step 1* - Navigate to [https://crm.snapit.group](https://crm.snapit.group). Enter your email into the username field and the password you have been provided.|![Image 1](Training-01.png)
+*Step 2* - If sign in is successful you will be presented with a dialog with language, timezone and date preferences. Click *Get Started*. These can be changed later through the personal preferences dialog.|![Image 2](Training-02.png)
+*Step 3* - After completing initial preferences, the dashboard will display. This will be empty. To navigate the CRM use the 'hamburger'  on the top left of the page.|![Image 3](Training-03.png)
 
 ## Change Password
 
-![Image 4](Training-04.png)
-
-![Image 5](Training-05.png)
-
-![Image 6](Training-06.png)
-
-![Image 7](Training-07.png)
+Description | Page
+-----|---------
+*Step 1* - Nav|![Image 4](Training-04.png)
+*Step 2* - Nav|![Image 5](Training-05.png)
+*Step 3* - Nav|![Image 6](Training-06.png)
+*Step 4* - Nav|![Image 7](Training-07.png)
 
 ## Personal Preferences
 
-![Image 4](Training-04.png)
-
-![Image 5](Training-05.png)
-
-![Image 8](Training-08.png)
+Description | Page
+-----|---------
+*Step 1* - Nav|![Image 4](Training-04.png)
+*Step 2* - Nav|![Image 5](Training-05.png)
+*Step 3* - Nav|![Image 8](Training-08.png)
